@@ -29,3 +29,6 @@ Per device models learn to separate benign and malicious windows and support eva
 
 ### Analysis notebooks
 RQ2 and RQ3 notebooks examine masking behaviour during activity and the influence of background traffic.
+
+## Data Availability
+The raw packet capture traces used in this study are available via the [PCAP Dataset](https://drive.google.com/drive/folders/1M7FLA8rmeT4zjcjwjAYwv-Smm8hoHfTZ?usp=drive_link).
